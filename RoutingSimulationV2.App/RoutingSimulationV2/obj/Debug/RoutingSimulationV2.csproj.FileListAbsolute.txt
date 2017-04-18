@@ -1,0 +1,6 @@
+D:\Dropbox\Programos\RoutingSimulationV2\RoutingSimulationV2.App\RoutingSimulationV2\bin\Debug\RoutingSimulationV2.exe.config
+D:\Dropbox\Programos\RoutingSimulationV2\RoutingSimulationV2.App\RoutingSimulationV2\bin\Debug\RoutingSimulationV2.exe
+D:\Dropbox\Programos\RoutingSimulationV2\RoutingSimulationV2.App\RoutingSimulationV2\bin\Debug\RoutingSimulationV2.pdb
+D:\Dropbox\Programos\RoutingSimulationV2\RoutingSimulationV2.App\RoutingSimulationV2\obj\Debug\RoutingSimulationV2.csprojResolveAssemblyReference.cache
+D:\Dropbox\Programos\RoutingSimulationV2\RoutingSimulationV2.App\RoutingSimulationV2\obj\Debug\RoutingSimulationV2.exe
+D:\Dropbox\Programos\RoutingSimulationV2\RoutingSimulationV2.App\RoutingSimulationV2\obj\Debug\RoutingSimulationV2.pdb
